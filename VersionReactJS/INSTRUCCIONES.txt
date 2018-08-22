@@ -1,0 +1,12 @@
+USUARIO:
+   nextu@gmail.com
+CONTRASEÑA:
+   123456
+
+1. Ubicarse en la carpeta /VersionReactJS en la cónsola de comandos
+2. Ejecutar el comando npm install desde la cónsola de comandos
+3. Ejecutar el comando npm start desde la cónsola de comandos
+4. Abrir el navegador e ingresar a la pagina http://localhost:8080
+5. Ingresar con la info previamente mencionada
+
+
